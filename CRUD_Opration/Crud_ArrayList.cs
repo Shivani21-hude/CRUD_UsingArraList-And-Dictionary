@@ -10,7 +10,7 @@ namespace CRUD_Opration
 {
     internal static class Crud_ArrayList
     {
-        public static void List()
+        public static void ArrayList1()
         {
             //creating arraylist 
             //ArrayList is a non-generic collection of objects
